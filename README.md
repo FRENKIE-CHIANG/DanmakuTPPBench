@@ -30,7 +30,7 @@ Our **DanmakuTPPBench** (including DanmakuTPP-Events and DanmakuTPP-QA) can be d
 https://huggingface.co/datasets/FRENKIE-CHIANG/DanmakuTPP
 
 The video frames corresponding to **DamakuTPPBench** can be download from:
-https://pan.baidu.com/s/1gOBKxCw86siXJw6ePvTjTQ?pwd=dmtb
+<a href='https://pan.baidu.com/s/1gOBKxCw86siXJw6ePvTjTQ?pwd=dmtb'> Link </a>
 
 ---
 
