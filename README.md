@@ -29,6 +29,9 @@ Our framework for **DanmakuTPP-QA** construction.
 Our **DanmakuTPPBench** (including DanmakuTPP-Events and DanmakuTPP-QA) can be downloaded from:
 https://huggingface.co/datasets/FRENKIE-CHIANG/DanmakuTPP
 
+The video frames corresponding to **DamakuTPPBench** can be download from:
+https://pan.baidu.com/s/1gOBKxCw86siXJw6ePvTjTQ?pwd=dmtb
+
 ---
 
 ## Dataset Construction Details
