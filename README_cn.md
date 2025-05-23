@@ -26,6 +26,10 @@
 
 https://huggingface.co/datasets/FRENKIE-CHIANG/DanmakuTPP
 
+**DanmakuTPPBench**中的图像数据可通过百度网盘下载：
+
+https://pan.baidu.com/s/1gOBKxCw86siXJw6ePvTjTQ?pwd=dmtb
+
 ---
 
 ## 数据集构造
