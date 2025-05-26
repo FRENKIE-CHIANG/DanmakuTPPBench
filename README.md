@@ -52,11 +52,11 @@ https://www.bilibili.com/BPU2024
 2. Evaluation of LLMs & MLLMs:
 
       Building upon the **DanmakuTPP-Events** benchmark, the evaluation can refer to the script:
-      <a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/evaluation/DanmakuTPP-QA/inference.py'>inference.py</a> 
+      <a href='https://github.com/FRENKIE-CHIANG/DanmakuTPPBench/blob/main/evaluation/DanmakuTPP-QA/inference.py'>inference.py</a> 
       for API-inference.
 
 3. Evaluation metrics can be calculated as follows: 
-<a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/evaluation/DanmakuTPP-QA/eval/acc.py'>acc</a>, 
+<a href='https://github.com/FRENKIE-CHIANG/DanmakuTPPBench/blob/main/evaluation/DanmakuTPP-QA/eval/acc.py'>acc</a>, 
 <a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/evaluation/DanmakuTPP-QA/eval/task-8-acc-top2.py'>task8-acc</a>, 
 <a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/evaluation/DanmakuTPP-QA/eval/rmse.py'>rmse</a>
 
