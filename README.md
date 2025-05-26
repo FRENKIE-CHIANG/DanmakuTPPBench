@@ -57,8 +57,8 @@ https://www.bilibili.com/BPU2024
 
 3. Evaluation metrics can be calculated as follows: 
 <a href='https://github.com/FRENKIE-CHIANG/DanmakuTPPBench/blob/main/evaluation/DanmakuTPP-QA/eval/acc.py'>acc</a>, 
-<a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/evaluation/DanmakuTPP-QA/eval/task-8-acc-top2.py'>task8-acc</a>, 
-<a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/evaluation/DanmakuTPP-QA/eval/rmse.py'>rmse</a>
+<a href='https://github.com/FRENKIE-CHIANG/DanmakuTPPBench/blob/main/evaluation/DanmakuTPP-QA/eval/task-8-acc-top2.py'>task8-acc</a>, 
+<a href='https://github.com/FRENKIE-CHIANG/DanmakuTPPBench/blob/main/evaluation/DanmakuTPP-QA/eval/rmse.py'>rmse</a>
 
 ---
 
