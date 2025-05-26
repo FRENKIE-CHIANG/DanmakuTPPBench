@@ -38,7 +38,7 @@ https://pan.baidu.com/s/1gOBKxCw86siXJw6ePvTjTQ?pwd=dmtb
 
 ## Dataset Construction Details
 1. **DanmakuTPP-Events** is sourced from the Top100 video creators in 2024:
-<a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/dataset-construction/DanmakuTPP-Events/dataset-details/Top100-creators-homepages.txt'>Top100 Video Creators</a>
+https://www.bilibili.com/BPU2024
 
 2. The framework template for **DanmakuTPP-QA** construction can be found in: `DanmakuTPP/dataset-construction/DanmakuTPP-QA/script`
 
