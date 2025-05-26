@@ -34,9 +34,9 @@ https://pan.baidu.com/s/1gOBKxCw86siXJw6ePvTjTQ?pwd=dmtb
 
 ## 数据集构造
 1. **DanmakuTPP-Events** 中的TPP数据基于b站2024百大up主2024年所发布的视频而构造：
-<a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/dataset-construction/DanmakuTPP-Events/dataset-details/Top100-creators-homepages.txt'>2024百大up主列表</a>
+https://www.bilibili.com/BPU2024
 
-2. **DanmakuTPP-QA** 的构造框架可参考： `DanmakuTPP/dataset-construction/DanmakuTPP-QA/script`
+3. **DanmakuTPP-QA** 的构造框架可参考： `DanmakuTPP/dataset-construction/DanmakuTPP-QA/script`
 
 ---
 
