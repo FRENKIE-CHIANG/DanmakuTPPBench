@@ -48,13 +48,13 @@ https://www.bilibili.com/BPU2024
 2. 评估大语言模型（LLMs）和多模态大模型（MLLMs）能力：
 
     基于**DanmakuTPP-QA** 可以参考脚本：
-    <a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/evaluation/DanmakuTPP-QA/inference.py'>inference.py</a> 
+    <a href='https://github.com/FRENKIE-CHIANG/DanmakuTPPBench/blob/main/evaluation/DanmakuTPP-QA/inference.py'>inference.py</a> 
     调用你所需要的模型api进行评估。
 
 3. 评估指标的计算可参考： 
-<a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/evaluation/DanmakuTPP-QA/eval/acc.py'>acc</a>, 
-<a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/evaluation/DanmakuTPP-QA/eval/task-8-acc-top2.py'>task8-acc</a>, 
-<a href='https://github.com/FRENKIE-CHIANG/DanmakuTTPBench/blob/main/evaluation/DanmakuTPP-QA/eval/rmse.py'>rmse</a>
+<a href='https://github.com/FRENKIE-CHIANG/DanmakuTPPBench/blob/main/evaluation/DanmakuTPP-QA/eval/acc.py'>acc</a>, 
+<a href='https://github.com/FRENKIE-CHIANG/DanmakuTPPBench/blob/main/evaluation/DanmakuTPP-QA/eval/task-8-acc-top2.py'>task8-acc</a>, 
+<a href='https://github.com/FRENKIE-CHIANG/DanmakuTPPBench/blob/main/evaluation/DanmakuTPP-QA/eval/rmse.py'>rmse</a>
 
 ---
 
