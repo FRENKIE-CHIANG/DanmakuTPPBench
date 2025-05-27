@@ -11,7 +11,7 @@ While TPPs have been widely studied for modeling temporal event sequences, exist
 (2) **DanmakuTPP-QA**, a challenging question-answering dataset constructed via a novel multi-agent pipeline powered by state-of-the-art LLMs and multi-modal LLMs (MLLMs), targeting complex temporal-textual-visual reasoning. 
 We conduct extensive evaluations using both classical TPP models and recent MLLMs, revealing significant performance gaps and limitations in current methods’ ability to model multi-modal event dynamics. Our benchmark establishes strong baselines and calls for further integration of TPP modeling into the multi-modal language modeling landscape.
 
-**For further details, please refer to our paper:**  Soon
+**For further details, please refer to our paper:**  https://arxiv.org/pdf/2505.18411
 
 
 ---
@@ -69,7 +69,7 @@ If you find this dataset helpful in your research, please consider citing:
       title={DanmakuTPPBench: A Multi-modal Benchmark for Temporal Point Process Modeling and Understanding}, 
       author={Yue Jiang and Jichu Li and Yang Liu and Dingkang Yang and Feng Zhou and Quyu Kong},
       year={2025},
-      arxiv = {}
-      url={}
+      arxiv = {2505.18411}
+      url={https://arxiv.org/abs/2505.18411}
 }
 ```
