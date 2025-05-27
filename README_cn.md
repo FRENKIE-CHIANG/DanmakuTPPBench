@@ -8,7 +8,7 @@
 (2) **DanmakuTPP-QA**：我们基于前沿大语言模型与多模态大语言模型，构建了multi-agent框架，构建了具有挑战性的问答数据集**DanmakuTPP-QA**。这是一个多模态、多任务、专注于复杂的时间-文本-视觉联合推理任务的数据集。
 我们采用经典时序点过程模型与前沿多模态大语言模型进行系统性评估，揭示了现有方法在多模态事件动态建模方面存在的显著性能差距与局限性。本研究不仅建立了坚实的基准模型，更呼吁学界进一步将时序点过程建模深度整合到多模态语言建模的范式演进中。
 
-**详情请参考我们的论文：** 即将发布
+**详情请参考我们的论文：** https://arxiv.org/pdf/2505.18411
 
 ---
 
@@ -65,7 +65,7 @@ https://www.bilibili.com/BPU2024
       title={DanmakuTPPBench: A Multi-modal Benchmark for Temporal Point Process Modeling and Understanding}, 
       author={Yue Jiang and Jichu Li and Yang Liu and Dingkang Yang and Feng Zhou and Quyu Kong},
       year={2025},
-      arxiv = {}
-      url={}
+      arxiv = {2505.18411}
+      url={https://arxiv.org/abs/2505.18411}
 }
 ```
